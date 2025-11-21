@@ -11,7 +11,7 @@
 
 **One-Stop-Center (OSC)** is a centralized platform designed to address [INSERT MAIN PROBLEM HERE - e.g., fragmented security protocols / student data management / scam awareness].
 
-Developed within 24 hours, this solution focuses on **Real-World Applicability** and **Security Awareness**, providing a secure interface for users to [INSERT MAIN FUNCTION - e.g., verify links / manage assets / report incidents].
+Developed within 24 hours, this solution focuses on **Real-World Applicability** and **Security Awareness**, providing a secure interface for users to report a scam/hack cases and communicate directly with investigators.
 
 ## 🚀 Key Features
 
@@ -22,11 +22,12 @@ Developed within 24 hours, this solution focuses on **Real-World Applicability**
 
 ## 🛠️ Tech Stack
 
-* **Language:** Python
-* **Database:** SQL
-* **Frontend:** HTML / CSS
-* **Tools:** Cursor (AI-Assisted Development), VS Code, Git
-* **Security Tools:** [Optional: Mention if you used Burp Suite or Wireshark for testing]
+* **Frontend:** HTML, CSS
+* **Backend:** Node.js, JavaScript
+* **Database:** Local Storage (Prototype)
+* **AI Integration:** Gemini API (Chatbot assistance)
+* **Visualization:** Chart.js (Investigator Dashboard)
+* **News Feed:** rss2json API
 
 ## ⚙️ Installation & Setup
 
