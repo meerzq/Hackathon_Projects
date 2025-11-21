@@ -505,8 +505,8 @@ function closeImageViewer() {
 // CHATBOT
 // ========================================
 
-const GEMINI_API_KEY = 'AIzaSyCGnCeyAENq6E658OKgkAtuohT0OSzB3Tw';
-const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
+const GEMINI__KEY = 'YOUR_API_KEY_HERE';
+const GEMINI_API_URL = 'YOUR_API_KEY_HERE';
 
 async function sendMessage() {
     const input = document.getElementById('userInput');
