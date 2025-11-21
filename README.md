@@ -39,10 +39,9 @@ Currently, reporting cybercrime in Malaysia is often confusing, slow, and lacks 
 
 ## 📸 Screenshots
 
-| Reporter View | Security Alert View |
-|:---:|:---:|
-| ![Submit Report]([Screenshot 2025-11-21 181759.png](https://github.com/meerzq/Hackathon_Projects/blob/39800b40bd336790cdb2f518e136f1bc87a85041/Screenshot%202025-11-21%20181759.png)) | ![Alert](path/to/image2.png) |
-*Placeholders for project screenshots.*
+| Reporter View | Assistant |
+|:---:|:---:|:---:|
+| ![Submit Report](https://github.com/meerzq/Hackathon_Projects/blob/39800b40bd336790cdb2f518e136f1bc87a85041/Screenshot%202025-11-21%20181759.png) | ![AI Assistant](https://github.com/meerzq/Hackathon_Projects/blob/a3823394e4c2c1a383e40001c74935722fac2fe9/Screenshot%202025-11-21%20182103.png) | ![AI Assistant](https://github.com/meerzq/Hackathon_Projects/blob/a3823394e4c2c1a383e40001c74935722fac2fe9/Screenshot%202025-11-21%20182103.png) |
 
 ## 👥 The Team
 
