@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd One-Stop-Center
+    cd enhance
     ```
 
 3.  **Install dependencies:**
