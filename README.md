@@ -39,9 +39,9 @@ Currently, reporting cybercrime in Malaysia is often confusing, slow, and lacks 
 
 ## 📸 Screenshots
 
-| Dashboard View | Security Alert View |
+| Reporter View | Security Alert View |
 |:---:|:---:|
-| ![Dashboard](path/to/image1.png) | ![Alert](path/to/image2.png) |
+| ![Submit Report](Screenshot 2025-11-21 181759.png) | ![Alert](path/to/image2.png) |
 *Placeholders for project screenshots.*
 
 ## 👥 The Team
